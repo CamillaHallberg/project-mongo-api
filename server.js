@@ -1,6 +1,9 @@
 import express from "express";
 import cors from "cors";
+import listEndpoints from "express-list-endpoints";
 import mongoose from "mongoose";
+
+// Reminder to self: above: import dotenv (already installed)
 
 // If you're using one of our datasets, uncomment the appropriate import below
 // to get started!
@@ -46,7 +49,12 @@ app.use(express.json());
 
 // Start defining your routes here
 app.get("/", (req, res) => {
-  res.send("Hello Camilla!");
+  res.send("Hello animal lovers!");
+});
+
+// Route to see all available endpoints
+app.get("/endpoints", (req, res) => {
+  res.send(listEndpoints(app))
 });
 
 // Route to get all animals from my data set
