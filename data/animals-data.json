@@ -1,0 +1,142 @@
+[
+    {
+        "animalID": 1,
+        "name": "Millie",
+        "animal": "Dog",
+        "color": "Brown",
+        "isFurry": true
+    },
+    {
+        "animalID": 2,
+        "name": "Rizze",
+        "animal": "Dog",
+        "color": "Black",
+        "isFurry": true
+    },
+    {
+        "animalID": 3,
+        "name": "Bumbi",
+        "animal": "Dog",
+        "color": "Black",
+        "isFurry": true
+    },
+    {
+        "animalID": 4,
+        "name": "Goldy",
+        "animal": "Goldfish",
+        "color": "Orange",
+        "isFurry": false
+    },
+    {
+        "animalID": 5,
+        "name": "Bosse",
+        "animal": "Cat",
+        "color": "Lightbrown",
+        "isFurry": true
+    },
+    {
+        "animalID": 6,
+        "name": "Burt",
+        "animal": "Bee",
+        "color": "Black, Yellow",
+        "isFurry": true
+    },
+    {
+        "animalID": 7,
+        "name": "Simon",
+        "animal": "Sloth",
+        "color": "Grey",
+        "isFurry": true
+    },
+    {
+        "animalID": 8,
+        "name": "Hailey",
+        "animal": "Hippo",
+        "color": "Grey",
+        "isFurry": false
+    },
+    {
+        "animalID": 9,
+        "name": "Leonard",
+        "animal": "Lion",
+        "color": "Beige",
+        "isFurry": true
+    },
+    {
+        "animalID": 10,
+        "name": "Tanya",
+        "animal": "Turtle",
+        "color": "Green",
+        "isFurry": false
+    },
+    {
+        "animalID": 11,
+        "name": "Fiona",
+        "animal": "Ferret",
+        "color": "Brown, White",
+        "isFurry": true
+    },
+    {
+        "animalID": 12,
+        "name": "Fideli",
+        "animal": "Fox",
+        "color": "Red",
+        "isFurry": true
+    },
+    {
+        "animalID": 13,
+        "name": "Sassy",
+        "animal": "Salamander",
+        "color": "Red",
+        "isFurry": false
+    },
+    {
+        "animalID": 14,
+        "name": "Corey",
+        "animal": "Kangaroo",
+        "color": "Brown",
+        "isFurry": true
+    },
+    {
+        "animalID": 15,
+        "name": "Bob",
+        "animal": "Barracuda",
+        "color": "Silver",
+        "isFurry": false
+    },
+    {
+        "animalID": 16,
+        "name": "Dakota",
+        "animal": "Duck",
+        "color": "White",
+        "isFurry": true
+    },
+    {
+        "animalID": 17,
+        "name": "Tony",
+        "animal": "Tiger",
+        "color": "Red, Black, White",
+        "isFurry": true
+    },
+    {
+        "animalID": 18,
+        "name": "Donald",
+        "animal": "Donkey",
+        "color": "Grey",
+        "isFurry": true
+    },
+    {
+        "animalID": 19,
+        "name": "Lizzy",
+        "animal": "Lizard",
+        "color": "Yellow",
+        "isFurry": false
+    },
+    {
+        "animalID": 20,
+        "name": "Barack",
+        "animal": "Blowfish",
+        "color": "Lightyellow",
+        "isFurry": false
+    }
+]
